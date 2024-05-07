@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+.Skyline {
+    text-align: center;
+    color: black
+}
+.Skyline img {
+    border-radius: 24px;
+}
+.Skyline li {
+    text-align: center;
+}
+.Porsche {
+    text-align: center;
+    color: black;
+    border: 24px;
+}
+.Porsche img{
+    border-radius: 24px;
+}
+.Uno {
+    text-align: center;
+    color: black;
+}
+.Uno img {
+    border-radius: 24px;
+}
+.Huracan {
+    text-align: center;
+    color: black;
+}
+.Huracan img {
+    border-radius: 24px;
+}
+body{
+    background-image: url('https://www.wallpapertip.com/wmimgs/41-413222_blue-sky-racing-track-background-hd.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+h1 {
+    color: #082f49;
+}
+
